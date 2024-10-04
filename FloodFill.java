@@ -134,10 +134,10 @@ public class FloodFill {
 
 
 
-                    fila.add(new Point(x + 1, y)); // Direita
-                    fila.add(new Point(x - 1, y)); // Esquerda
-                    fila.add(new Point(x, y + 1)); // Abaixo
-                    fila.add(new Point(x, y - 1)); // Acima
+                    fila.add(new Point(x + 1, y));
+                    fila.add(new Point(x - 1, y));
+                    fila.add(new Point(x, y + 1));
+                    fila.add(new Point(x, y - 1));
 
 
 

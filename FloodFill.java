@@ -68,7 +68,7 @@ public class FloodFill {
             }
         }
 
-        
+
         JFrame janeladas = new JFrame("Fotão do pai ixiii");
         janeladas.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         janeladas.setSize(fotadas.getWidth(), fotadas.getHeight());
